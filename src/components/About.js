@@ -14,3 +14,4 @@ const About = ({ image, about }) => {
 };
 
 export default About;
+//
